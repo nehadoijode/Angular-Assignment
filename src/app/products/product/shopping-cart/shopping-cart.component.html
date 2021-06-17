@@ -1,0 +1,16 @@
+<div class="products-container">
+    <div class="products-header"></div>
+    <div class="products-list">
+        <ul *ngFor="let product of productAdded">
+            <li class="product-item">
+                <span>
+                    <img class="fruit-image" src={{product.image_path}} alt="" srcset="" />
+                </span>
+                <span class="product-list-detail">
+                    <h1>{{product.fruitName}}</h1>
+                    <h2>{{product.fruitDescription}}</h2>
+                </span>
+                <span>{{product.amount}}</span>
+            </li>                       
+        </ul>
+    </div>

@@ -1,0 +1,32 @@
+[
+    {
+        "fruitName": "Apple",
+        "fruitDescription": "Eat one apple every day to keep the doctor away",
+        "amount": "$12",
+        "image_path" : "assets/images/apple.png"
+    },
+    {
+        "fruitName" : "Grapes",
+        "fruitDescription" : "Apple is great, but grapes are even better",
+        "amount" : "$18",
+        "image_path" : "assets/images/grapes.png"
+    },
+    {
+        "fruitName" : "Mango",
+        "fruitDescription" :"The king of all fruit",
+        "amount" : "$10",
+        "image_path" : "assets/images/mango.png"
+    },
+    {
+        "fruitName" : "Pineapple",
+        "fruitDescription" : "No pine, no apple, just a whole lot of pineapple.",
+        "amount" : "$10",
+        "image_path" : "assets/images/pineapple.png"
+    },
+    {
+        "fruitName" : "Orange",
+        "fruitDescription" : "Orange fruit is always good.",
+        "amount" :"$10",
+        "image_path" : "assets/images/orange.png"
+    }
+]
